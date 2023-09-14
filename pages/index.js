@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hello My name is Darren Muldong</p>
-        <p>10 Things That Require Zero Talent
+        <vr>10 Things That Require Zero Talent
 
 1. Being On Time
 2. Making An Effort
@@ -22,7 +22,7 @@ export default function Home() {
 8. Doing A Little Extra
 9. Being Prepared
 10. Having A Strong Work Ethic
-    </p>
+    </vr>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
